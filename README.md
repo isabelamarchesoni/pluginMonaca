@@ -22,5 +22,3 @@ O aplicativo possui os seguintes botões interativos:
 - **BOOTSTRAP 4.6**  
 - **CORDOVA**  
 - **MONACA**  
-   cordova plugin add cordova-plugin-dialogs
-   cordova plugin add cordova-plugin-vibration
