@@ -1,10 +1,10 @@
-## PLUGIN DEMO COM MONACA
+## PLUGIN DEMO COM MONACA 🎛️
 
-## DESCRIÇÃO
+## DESCRIÇÃO 📝
 
 Este é um projeto simples desenvolvido com o **Monaca** e **Apache Cordova**, utilizando **Bootstrap 4** para o layout. O objetivo principal é demonstrar o uso de **plugins nativos** do Cordova, como alertas, confirmações, sons e vibração, diretamente em um dispositivo móvel.
 
-## FUNCIONALIDADES
+## FUNCIONALIDADES ⚙️
 
 O aplicativo possui os seguintes botões interativos:
 
@@ -13,7 +13,7 @@ O aplicativo possui os seguintes botões interativos:
 - **BEEP**: Emite um som de aviso usando o plugin `navigator.notification.beep`.
 - **VIBRAR**: Ativa a vibração do dispositivo por um curto período.
 
-## TECNOLOGIAS UTILIZADAS
+## TECNOLOGIAS UTILIZADAS  💻
 
 - **HTML5**  
 - **CSS3**  
